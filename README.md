@@ -15,6 +15,12 @@ To test, contribute or just see what we did follow few easy steps:
 - Now, Navigate to client folder and run `npm start` to start frontend
 - enjoy!
 
+## To Contribute
+- Create a new branch 
+- And do the work on new brach see if it works or not 
+- Request Merge
+-That's it
+
 The following screen will appear:-
 ![Home Page](https://github.com/Pratyush-Ranjan/Organ-Donation-Transplant-Chain/blob/master/Complete%20Project/images/home.png)
 <br/>
